@@ -17,12 +17,12 @@
 
 ## 🔧 Tech Stack
 
-- **Languages:** PHP, Java, C++, Assembly, JavaScript
+- **Languages:** PHP, Python, Java, C++, Assembly, JavaScript
 - **Frontend:** HTML, CSS, JS
 - **Backend:** Laravel (PHP), Native Java, Node.js basics
-- **Database:** MySQL , Oracle
+- **Database:** MySQL, Oracle
 - **Tools:** Git, GitHub, Postman, VS Code
-- **Concepts:** REST APIs, MVC, Authentication, Data Structures, Algorithms
+- **Concepts:** REST APIs, MVC, Authentication, Data Structures, OOP ,Algorithms , Security , Mathematics
 
 ---
 
