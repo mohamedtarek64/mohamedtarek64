@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">👋 Hey, I'm Mohamed Elkenany</h1>
 
-<!--
-**mohamedtarek64/mohamedtarek64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Backend & Systems Developer | 🛠 Laravel • C++ • Java • JS | 🚀 Passionate about building real-world solutions
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🎓 Computer Science student
+- ⚙️ I build and understand systems from the **bare metal (Assembly)** to **high-level frameworks (Laravel, Java, JS)**
+- 🌍 I enjoy solving real-world problems with code, and I’m always learning something new
+- 🔭 Currently working on a large Laravel project (stay tuned 👀)
+
+---
+
+## 🔧 Tech Stack
+
+- **Languages:** PHP, Java, C++, Assembly, JavaScript
+- **Frontend:** HTML, CSS, JS
+- **Backend:** Laravel (PHP), Native Java, Node.js basics
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Concepts:** REST APIs, MVC, Authentication, Data Structures, Algorithms
+
+---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtarek64&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedtarek64&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+
+- 📧 Email: mohamed202202632@gmail.com  
+- 🔗 LinkedIn: [Mohamed Elkenany](https://www.linkedin.com/in/mohamed-elkenany-41aab6264/)
+
+---
+
+> 🚀 *“Code is a tool for building reality — and I'm here to build.”*
