@@ -20,7 +20,7 @@
 - **Languages:** PHP, Java, C++, Assembly, JavaScript
 - **Frontend:** HTML, CSS, JS
 - **Backend:** Laravel (PHP), Native Java, Node.js basics
-- **Database:** MySQL
+- **Database:** MySQL , Oracle
 - **Tools:** Git, GitHub, Postman, VS Code
 - **Concepts:** REST APIs, MVC, Authentication, Data Structures, Algorithms
 
