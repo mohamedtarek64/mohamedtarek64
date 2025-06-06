@@ -5,8 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedtarek64&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/mohamedtarek64?label=Followers&style=social" alt="GitHub Followers" />
+  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed20220632@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed%20Elkenary)
+
 </div>
 
 ---
@@ -131,7 +133,7 @@
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedtarek64&theme=tokyo-night&hide_border=true&custom_title=Contribution Activity" alt="Contribution Graph"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedtarek64&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -153,17 +155,6 @@
 > *"Code is a tool for building reality — and I'm here to build."*
 
 I believe in writing clean, maintainable code that solves real problems. Whether it's working with Assembly language to understand how computers work at the fundamental level, or building web applications with Laravel, I approach every project with the goal of creating meaningful solutions.
-
----
-
-## 📫 How to Reach Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed20220632@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed%20Elkenary)
-
-</div>
 
 ---
 
