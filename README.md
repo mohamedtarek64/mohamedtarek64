@@ -7,7 +7,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed20220632@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed%20Elkenary)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elkenany-41aab6264)
 
 </div>
 
@@ -180,4 +180,4 @@ SQL          45 mins         ░░░░░░░░░░░░░░░░░
   <h3>⚡ Thanks for visiting!</h3>
   <p>Feel free to reach out if you want to collaborate on interesting projects!</p>
   <p><i>Don't forget to ⭐ repositories you find interesting</i></p>
-</div>
+</div> 
