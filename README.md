@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed20220632@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elkenany-41aab6264)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedtarek64)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](personal-website/index.html)
 
 </div>
 
@@ -19,7 +19,7 @@
     📧 البريد الإلكتروني: <a href="mailto:mohamed20220632@gmail.com">mohamed20220632@gmail.com</a><br>
     💼 لينكد إن: <a href="https://www.linkedin.com/in/mohamed-elkenany-41aab6264">Mohamed Elkenary</a><br>
     📱 الهاتف: <a href="tel:+201000000000">+201-000-0000</a> (اتصل بي)<br>
-    🌐 الموقع الشخصي: <a href="#">قريباً</a>
+    🌐 الموقع الشخصي: <a href="personal-website/index.html">قريباً</a>
   </p>
 </div>
 
