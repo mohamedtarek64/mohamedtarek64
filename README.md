@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelkenany001@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elkenany-41aab6264)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedtarek64)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamedtarek64.github.io/personal-website/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-elkenany.netlify.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedtarek64&color=0891b2&style=for-the-badge)
 
@@ -18,6 +18,10 @@
 ---
 
 ## 🚀 About Me
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/coding.gif" width="400" height="300" alt="Coding Animation"/>
+</div>
 
 💻 **Full-Stack Developer** passionate about building scalable, real-world solutions  
 🔧 I build and understand systems from **bare metal (Assembly)** to **modern frameworks (Laravel, Vue.js)**  
@@ -89,6 +93,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/ecommerce-demo.gif" width="600" height="300" alt="SoleMate Demo"/>
+</div>
+
 **A Modern Full-Stack E-Commerce Platform with Advanced Features**
 
 **🚀 Tech Stack:**
@@ -127,6 +135,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/pos-demo.gif" width="500" height="300" alt="POS System Demo"/>
+</div>
+
 **Description:** A complete Arabic POS system for managing sales, customers, inventory, and installments  
 **Technologies:** PHP, MySQL, Laravel  
 **Features:** Multi-language support, inventory management, customer tracking, installment system  
@@ -142,6 +154,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/audio-processing.gif" width="400" height="250" alt="Audio Processing Demo"/>
+</div>
+
 **Description:** Advanced audio signal processing and analysis toolkit  
 **Technologies:** Python, NumPy, SciPy, Signal Processing Libraries  
 **Features:** Frequency domain analysis, filtering, real-time processing  
@@ -151,6 +167,10 @@
 
 ### 🖼️ **FFT Image Filtering**
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/fft-demo.gif" width="400" height="250" alt="FFT Image Filtering Demo"/>
+</div>
+
 **Description:** Perform 2D FFT on grayscale images using NumPy, visualize frequency domain and apply filters  
 **Technologies:** Python, NumPy, OpenCV, Matplotlib  
 **Features:** Frequency domain visualization, high/low-pass filters, image manipulation  
@@ -159,6 +179,10 @@
 ---
 
 ## 🏆 Professional Skills & Expertise
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/skills-animation.gif" width="500" height="300" alt="Skills Animation"/>
+</div>
 
 ### 🔧 **Full-Stack Development**
 - **Frontend:** Vue.js 3, JavaScript ES6+, Tailwind CSS, PWA Development
@@ -214,6 +238,10 @@
 
 ## 🌟 Current Focus
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/current-focus.gif" width="400" height="200" alt="Current Focus Animation"/>
+</div>
+
 🚀 **SoleMate E-Commerce Platform** - Recently launched a comprehensive full-stack e-commerce application with modern architecture and advanced features
 
 🌱 **Always Learning** - Currently exploring:
@@ -232,6 +260,10 @@
 ---
 
 ## 💭 Philosophy
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/philosophy-quote.gif" width="500" height="150" alt="Philosophy Quote"/>
+</div>
 
 > *"Code is a tool for building reality — and I'm here to build solutions that matter."*
 
@@ -270,6 +302,8 @@ SQL          48 mins         ░░░░░░░░░░░░░░░░░
 ## 🤝 Let's Connect!
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/connect-animation.gif" width="400" height="200" alt="Connect Animation"/>
+</div>
 
 I'm always interested in:
 - 💼 **Collaboration** on interesting projects
@@ -297,4 +331,3 @@ I'm always interested in:
   
   ![](https://hit.yhype.me/github/profile?user_id=mohamedtarek64)
 </div>
-
