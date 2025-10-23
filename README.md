@@ -1,11 +1,7 @@
 # 👋 Hey, I'm Mohamed Elkenany
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+PHP+%7C+JavaScript;Building+Real-World+Solutions;E-Commerce+%7C+POS+Systems+%7C+APIs;Always+Learning+Something+New;Open+to+Collaboration" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0891b2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Laravel+%7C+Vue.js+%7C+C%2B%2B+%7C+Java;PHP+%7C+Python+%7C+JavaScript;Building+Real-World+Solutions;E-Commerce+%7C+Systems+%7C+APIs;Always+Learning+Something+New" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,15 +21,12 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/coding.gif" width="400" height="300" alt="Coding Animation"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mohamedtarek64&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
 </div>
 
 💻 **Full-Stack Developer** passionate about building scalable, real-world solutions  
 🔧 I build and understand systems from **bare metal (Assembly)** to **modern frameworks (Laravel, Vue.js)**  
 🌱 I enjoy solving complex problems with elegant code and I'm always learning something new  
 🚀 Recently launched **SoleMate E-Commerce Platform** - A full-stack e-commerce solution with modern architecture
-
 
 ### 🎯 What Drives Me:
 - 💡 **Problem Solving:** Turning complex challenges into elegant solutions
@@ -225,16 +218,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedtarek64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&custom_title=Mohamed's%20GitHub%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtarek64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Most%20Used%20Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedtarek64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtarek64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtarek64&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=0891b2&sideNums=0891b2&currStreakLabel=0891b2&sideLabels=0891b2&dates=0891b2" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedtarek64&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtarek64&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -288,6 +277,11 @@ My development philosophy centers around:
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedtarek64&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</div>
 
 ---
 
