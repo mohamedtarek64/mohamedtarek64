@@ -82,60 +82,6 @@
 </div>
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedtarek64&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedtarek64&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedtarek64&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedtarek64&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedtarek64&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-PHP          18 hrs 30 mins  ████████████████░░░░░░░░░   58.2% 
-JavaScript   7 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.4% 
-Vue.js       3 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   10.2% 
-HTML/CSS     1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   4.7% 
-SQL          48 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
-```
-<!--END_SECTION:waka-->
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mohamedtarek64/mohamedtarek64/main/assets/connect-animation.gif" width="400" height="200" alt="Connect Animation"/>
-</div>
-
-I'm always interested in:
-- 💼 **Collaboration** on interesting projects
-- 🤝 **Open Source** contributions
-- 💡 **Innovative Ideas** and new challenges
-- 📚 **Knowledge Sharing** and learning from others
-
 ### 📫 How to reach me:
 
 [![Email](https://img.shields.io/badge/-mohamedelkenany001@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelkenany001@gmail.com)
