@@ -39,13 +39,6 @@ I care deeply about the details that make an app professional: dark mode, respon
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,cpp,java,js,vue,tailwind,mysql,redis,docker,git,vite,postman,vscode" />
 
----
-
-### 📊 GitHub Activity
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedtarek64&theme=github_dark" alt="GitHub Profile Details" />
-
----
 
 <br/>
 <i>Building real-world solutions, one commit at a time.</i>
