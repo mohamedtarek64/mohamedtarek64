@@ -16,7 +16,8 @@
 </div>
 
 ---
-
+<!-- Terminal Simulation with Your Details -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=4E9A06&center=true&vCenter=true&width=600&lines=%2Froot+%24+echo+'✨+Welcome+to+Mohamed+Elkenany's+Github!+✨';%2Froot+%24+echo+'🔧+Building+Full-Stack+Solutions+with+Laravel+%26+Vue...';%2Froot+%24+echo+'💻+Exploring+low-level+systems+(C%2B%2B+%2F+Assembly)...';%2Froot+%24+echo+'🚀+Always+learning%2C+always+building!';" alt="Terminal Animation" />
 ## 🚀 About Me
 
 <div align="center">
